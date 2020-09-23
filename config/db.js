@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const connectDB = async () => {
   try {
       // second param for avoiding warnings
-    const conn = await mongoose.connect(process.env.MONGO_URI, {
+    const conn = await mongoose.connect(process.env.MONGODB_URI, {
       useNewUrlParser: true,
       useCreateIndex: true,
       useUnifiedTopology: true
