@@ -1,4 +1,8 @@
+# Expense Tracker App 
 
+This app simply keeps track of any transactions you create or delete
+It uses react with normal css to display the components
+It is connected to mongodb database in the backend and uses Node.js 
 
 ## Available Scripts
 
