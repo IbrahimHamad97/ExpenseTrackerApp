@@ -11,6 +11,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
+'Note: you need to have your own mongodb account and database running for the app to work'
 Runs the app in the production mode.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
