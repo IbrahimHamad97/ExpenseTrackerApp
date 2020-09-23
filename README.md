@@ -5,6 +5,10 @@ It uses react with normal css to display the components <br>
 It is connected to mongodb database in the backend and uses Node.js <br>
 The app is already in production mode 
 
+## Heroku App
+
+you can access the app directly from here: https://expensetrackerapp-brho.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,7 +20,3 @@ Runs the app in the production mode.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-
-## Available Scripts
-
-you can access the app directly from here: https://expensetrackerapp-brho.herokuapp.com/
